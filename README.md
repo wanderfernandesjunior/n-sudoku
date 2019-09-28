@@ -2,7 +2,7 @@
 
 Solução do problema n-sudoku.
 
-ENTRADA: O programa lê três parâmetros:
+ENTRADA: O programa lê dois parâmetros:
 - n: dimensão do problema
 - tabuleiro: n^2 linhas contendo n^2 números cada
 
