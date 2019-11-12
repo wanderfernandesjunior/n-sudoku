@@ -33,3 +33,9 @@ SAÍDA: o programa retorna a primeira solução encontrada, por exemplo:
 Alternativa:
 
     localhost:~$ ./sudoku < game_n3.txt
+
+Referências utilizadas:
+
+ - Livro AIMA - "Artificial Intelligence - A Modern Approach"
+ - Github oficial do livro AIMA (https://github.com/aimacode)
+ - Documentação do Python (https://docs.python.org)
