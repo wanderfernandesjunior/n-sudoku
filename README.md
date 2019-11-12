@@ -34,7 +34,7 @@ Alternativa:
 
     localhost:~$ ./sudoku < game_n3.txt
 
-Referências utilizadas:
+Referências consultadas:
 
  - Livro AIMA - "Artificial Intelligence - A Modern Approach"
  - Github oficial do livro AIMA (https://github.com/aimacode)
