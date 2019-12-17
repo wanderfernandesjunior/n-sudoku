@@ -32,7 +32,7 @@ SAÍDA: o programa retorna a primeira solução encontrada, por exemplo:
 
 Alternativa:
 
-    localhost:~$ ./sudoku < game_n3.txt
+    localhost:~$ ./sudoku.py < game_n3.txt
 
 Referências consultadas:
 
